@@ -7,7 +7,7 @@ What it basically does is takes input from your camera, draws overlay with chara
 The stats are loaded from D&D Beyond.
 
 ## Build
-Requires [libuv](https://github.com/libuv/libuv) to build.
+Requires [Qt6](https://www.qt.io/product/qt6) and [libuv](https://github.com/libuv/libuv) to build.
 
 ## Run
 Requires [VCamSDK](https://www.e2esoft.com/sdk/vcam-sdk/) to run.
