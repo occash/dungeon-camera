@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/">
+    <file>assets/play.svg</file>
+    <file>assets/stop.svg</file>
+    <file>assets/armor.svg</file>
+    <file>assets/container.svg</file>
+    <file>assets/icon.png</file>
+  </qresource>
+</RCC>
